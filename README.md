@@ -8,7 +8,9 @@ This repo is like that spare room in your house where you dump stuff "just in ca
 
 ## What is actually here?
 
-Currently, this repo is home to some lonely diagrams. They are like the early birds at a party, waiting for the book to show up and get things started.
+Currently, this repo is home to the demo version of the book (part of the step number 7: Evolve Your Architecture) and to some lonely diagrams.
+
+They are like the early birds at a party, waiting for the book to show up and get things started.
 
 ## Feedback
 
